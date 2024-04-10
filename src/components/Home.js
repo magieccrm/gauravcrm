@@ -420,7 +420,7 @@ function Home() {
               </div>
             </div>
 
-            <div className="row">
+            <div className="row d-none">
               <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 pl-0">
                 <div className="panel panel-bd  bg-white">
                   <div className="panel-heading">
